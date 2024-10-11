@@ -13,56 +13,35 @@ Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014 -->
-* B.S. in Engineering, Yonsei University, 2025 (expected)
+* Yonsei University Seoul, South Korea Bachelor, Computer Science  2022 – 2024
+* GPA:3.15/4.30
+  
 
+Skills
+======
+
+* Python · Java · C · C++
+* Chinese · native  Korea · TOPIK 4  English · IELTS 6.0
+ 
 Work experience
 ======
-<!-- * Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git -->
+*  2021.3 – 2021.7
+  * Digital Media Technology Center – Hunan Radio and Television Station
+  * Participated in the digital transformation of the program and used python for data analysis.
+  
+*   2022.3 – 2022.6
+  * IT center – Founder Securities Co., LTD
+  *  Understand data processing, system development and product analysis skills related to the securities
+industry.
 
-* Summer 2024: Intership
-  * Yonsei University / RLLAB
-  * Supervisor: Professor Youngwoon Lee
-  
-<!-- Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
 
-Publications
+Projects
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-<!-- Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+
+**Reasoning Ability Distillation - software design(1) in YONSEI**
+
+* Evaluation : Responsible for testing the usability of GPT-API, and tuning the existing prompt to guide
+gpt to score the responses of student models and teacher models more objectively and accurately
+through prompt
