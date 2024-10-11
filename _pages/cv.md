@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -28,12 +28,12 @@ Work experience
 
 
 *  2021.3 – 2021.7
-  * Digital Media Technology Center – Hunan Radio and Television Station
-  * Participated in the digital transformation of the program and used python for data analysis.
+   * Digital Media Technology Center – Hunan Radio and Television Station
+   * Participated in the digital transformation of the program and used python for data analysis.
   
 *   2022.3 – 2022.6
-  * IT center – Founder Securities Co., LTD
-  *  Understand data processing, system development and product analysis skills related to the securities
+    * IT center – Founder Securities Co., LTD
+    *  Understand data processing, system development and product analysis skills related to the securities
 industry.
 
 
